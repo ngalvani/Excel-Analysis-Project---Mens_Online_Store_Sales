@@ -1,5 +1,5 @@
 #  Sales Analysis of Men's Clothing Transactions Project
-**Fictitious Store Sales** <br>
+**Fictitious Online Store Sales** <br>
 # About
 This project presents a detailed analysis of sales transactions from an online men's clothing store, inspired by retail giants like Macy's. The dataset comprises 125 fictitious transactions, capturing essential metrics such as product details, sales amounts, and quantities sold over a year. Using Excel's powerful analytical tools, including Pivot Tables and charts, this project aims to uncover valuable insights into sales performance and inventory management.
 
